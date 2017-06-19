@@ -1,4 +1,4 @@
-net: "YoloGooglenet_train.prototxt"
+net: "YoloGoogleNet_train.prototxt"
 test_iter: 4952
 test_interval: 32000
 test_initialization: false
